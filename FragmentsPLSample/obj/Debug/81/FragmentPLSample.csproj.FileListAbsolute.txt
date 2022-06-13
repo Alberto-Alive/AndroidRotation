@@ -172,3 +172,5 @@ D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
+D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\test.xml
+D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\test1.xml

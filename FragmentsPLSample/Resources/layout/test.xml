@@ -1,0 +1,40 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:tools="http://schemas.android.com/tools"
+   android:layout_width="match_parent"
+   android:layout_height="match_parent"
+   tools:context=".MainActivity">
+
+   <LinearLayout
+      android:id="@+id/firstLayout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_toLeftOf="@+id/secondView"
+      android:orientation="vertical">
+     <ListView
+          android:minWidth="25px"
+          android:minHeight="25px"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:id="@+id/titlesListView" />
+    
+    </LinearLayout>
+
+   <View
+      android:id="@+id/secondView"
+      android:layout_width="0dp"
+      android:layout_height="match_parent"
+      android:layout_centerHorizontal="true" />
+
+   <LinearLayout
+      android:id="@+id/thirdLayout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_toRightOf="@+id/secondView"
+      android:orientation="vertical">
+     <TextView
+              android:text=""
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:id="@+id/quoteTextView" />
+    </LinearLayout>
+</RelativeLayout>

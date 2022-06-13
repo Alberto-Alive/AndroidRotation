@@ -19,7 +19,7 @@ namespace FragmentPLSample
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            SetContentView(Resource.Layout.rotationNoFragments);
+            SetContentView(Resource.Layout.test1);
 
             ListView titlesListView = FindViewById<ListView>(Resource.Id.titlesListView);
             titlesListView.ChoiceMode = ChoiceMode.Single;

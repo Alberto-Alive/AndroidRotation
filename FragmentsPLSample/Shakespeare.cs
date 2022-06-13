@@ -3,7 +3,7 @@ namespace FragmentPLSample
     class Shakespeare
     {
         public static string[] Titles =
-            {"Henry IV (1)", "Henry V", "Henry VIII", "Richard II", "Richard III", "Merchant of Venice", "Othello", "King Lear"};
+            {"Henry IV (1)", "Henry V", "Henry VIII", "Richard II", "Richard III", "Merchant of Venice", "Othello", "King Lear",  "Richard II", "Richard III", "Merchant of Venice", "Othello", "King Lear"};
 
         public static string[] Dialogue =
         {
@@ -57,6 +57,26 @@ namespace FragmentPLSample
             "blood and baseness of our natures would conduct us" + "to most preposterous conclusions: but we have" +
             "reason to cool our raging motions, our carnal" + "stings, our unbitted lusts, whereof I take this that" +
             "you call love to be a sect or scion.",
+            "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
+            "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
+            "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
+            "Smite flat the thick rotundity o' the world!" + "Crack nature's moulds, an germens spill at once," + "That make ingrateful man!",
+            "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
+            "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
+            "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
+            "Smite flat the thick rotundity o' the world!" + "Crack nature's moulds, an germens spill at once," + "That make ingrateful man!",
+            "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
+            "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
+            "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
+            "Smite flat the thick rotundity o' the world!" + "Crack nature's moulds, an germens spill at once," + "That make ingrateful man!",
+            "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
+            "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
+            "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
+            "Smite flat the thick rotundity o' the world!" + "Crack nature's moulds, an germens spill at once," + "That make ingrateful man!",
+            "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
+            "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
+            "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
+            "Smite flat the thick rotundity o' the world!" + "Crack nature's moulds, an germens spill at once," + "That make ingrateful man!",
             "Blow, winds, and crack your cheeks! rage! blow!" + "You cataracts and hurricanoes, spout" +
             "Till you have drench'd our steeples, drown'd the cocks!" + "You sulphurous and thought-executing fires," +
             "Vaunt-couriers to oak-cleaving thunderbolts," + "Singe my white head! And thou, all-shaking thunder," +
