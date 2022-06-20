@@ -15,11 +15,7 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:label="PlayQuoteActivity Activity" android:name="crc6402011ac797d33605.PlayQuoteActivity" />
-    <activity android:label="RotationNoFragment" android:name="crc6402011ac797d33605.RotationNoFragments" />
     <activity android:label="RotationUsingFragments" android:name="crc6402011ac797d33605.RotationUsingFragments" />
-    <activity android:label="RotationUsingFragmentsButNoXML" android:name="crc6402011ac797d33605.RotationUsingFragmentsJustCSharp" />
-    <activity android:label="RotationUsingFrameLayouts" android:name="crc6402011ac797d33605.RotationUsingFrameLayouts" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="1999999999" android:authorities="FragmentPLSample.FragmentPLSample.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
   <uses-sdk android:minSdkVersion="27" android:targetSdkVersion="27" />

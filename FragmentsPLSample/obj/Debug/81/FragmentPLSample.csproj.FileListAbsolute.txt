@@ -24,7 +24,6 @@ D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\android\bin\base.zip
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\android\bin\FragmentPLSample.FragmentPLSample.aab
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\android\bin\FragmentPLSample.FragmentPLSample.apks
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\rotationusingframelayouts.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\values\strings.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\drawable-xhdpi\launcher.png
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\drawable-hdpi\launcher.png
@@ -33,15 +32,10 @@ D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\drawable\launcher.png
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\values\colours.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\values\styles.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\rotationnofragments.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout-land\rotationnofragments.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\rotationusingfragments.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout-land\rotationusingfragments.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\quotesfragment.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\playsfragment.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout-land\rotationusingframelayouts.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\rotationusingfragmentsjustcsharp.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout-land\rotationusingfragmentsjustcsharp.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\main.xml
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\uploadflags.txt
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\resolvedassemblies.hash
@@ -172,5 +166,3 @@ D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_GenerateJavaStubs.stamp
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\test.xml
-D:\AbcUni\All\Xamarin_Android_Fragments_Rotation\FragmentsPLSample\obj\Debug\81\res\layout\test1.xml

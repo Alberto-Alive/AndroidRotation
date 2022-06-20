@@ -52,26 +52,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
-    <Compile Include="PlayQuoteActivity.cs" />
-    <Compile Include="QuotesJCSFragment.cs" />
     <Compile Include="PlaysFragment.cs" />
     <Compile Include="QuotesFragment.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RotationNoFragments.cs" />
     <Compile Include="RotationUsingFragments.cs" />
-    <Compile Include="RotationUsingFragmentsJustCSharp.cs" />
-    <Compile Include="RotationUsingFrameLayouts.cs" />
     <Compile Include="Shakespeare.cs" />
-    <Compile Include="PlaysJCSFragment.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\rotationUsingFrameLayouts.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <AndroidResource Include="Resources\Values\Strings.xml" />
   </ItemGroup>
   <ItemGroup>
@@ -83,12 +74,6 @@
     <AndroidResource Include="Resources\Drawable\launcher.png" />
     <AndroidResource Include="Resources\Values\colours.xml" />
     <AndroidResource Include="Resources\Values\styles.xml" />
-    <AndroidResource Include="Resources\layout\rotationNoFragments.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout-land\rotationNoFragments.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <AndroidResource Include="Resources\layout\rotationUsingFragments.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
@@ -101,24 +86,7 @@
     <AndroidResource Include="Resources\layout\playsFragment.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout-land\RotationUsingFrameLayouts.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\rotationUsingFragmentsJustCSharp.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout-land\rotationUsingFragmentsJustCSharp.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
     <AndroidResource Include="Resources\layout\main.xml">
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\test.xml">
-      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
-      <SubType>Designer</SubType>
-    </AndroidResource>
-    <AndroidResource Include="Resources\layout\test1.xml">
-      <Generator>MSBuild:UpdateGeneratedFiles</Generator>
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
